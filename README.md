@@ -18,10 +18,10 @@ Example queries:
 
 3ds Max (Python)
 ↓ [scene metadata JSON]
-FastAPI Backend (Docker)
-├─ SentenceTransformers → embeddings
-├─ Qdrant → vector storage & retrieval
-└─ Mistral-7B (Ollama) → contextual generation
+FastAPI Backend (Docker)  
+├─ SentenceTransformers → embeddings  
+├─ Qdrant → vector storage & retrieval  
+└─ Mistral-7B (Ollama) → contextual generation  
 ↓
 3ds Max Visualization
 → highlight objects & print summary
