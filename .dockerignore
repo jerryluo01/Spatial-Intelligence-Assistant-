@@ -1,0 +1,81 @@
+# =====================================
+# Python cache and build artifacts
+# =====================================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.log
+*.swp
+*.tmp
+*.bak
+
+# =====================================
+# Virtual environments
+# =====================================
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+*.env
+
+# =====================================
+# System and editor junk
+# =====================================
+.DS_Store
+Thumbs.db
+.vscode/
+.vs/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.user
+*.iml
+
+# =====================================
+# Node / Frontend
+# =====================================
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# =====================================
+# Docker and build files (important)
+# Do NOT copy these into the image
+# =====================================
+docker-compose.yml
+docker-compose.*.yml
+Dockerfile
+README.md
+LICENSE
+*.md
+*.pdf
+*.docx
+*.zip
+
+# =====================================
+# Data, models, and heavy assets
+# =====================================
+qdrant_storage/
+ollama_models/
+scripts/
+*.fbx
+*.glb
+*.gltf
+*.usdz
+*.max
+*.blend
+solar_orbiter_hierarchy.json
+
+# =====================================
+# Git / CI
+# =====================================
+.git/
+.gitignore
+.github/
+.gitlab/

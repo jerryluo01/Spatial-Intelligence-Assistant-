@@ -1,0 +1,3124 @@
+{
+  "nodes": [
+    {
+      "name": "Solar_orbiter.fbx",
+      "parent": "",
+      "class_": "Helper",
+      "material": "",
+      "user_props": {
+        "Subsystem": "",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Lambert2",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "FbxMaxWrapper",
+      "material": "Material #35",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Black",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "FbxMaxWrapper",
+      "material": "Material #90",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert8",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "FbxMaxWrapper",
+      "material": "Material #79",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Front side panels",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "FbxMaxWrapper",
+      "material": "Material #46",
+      "user_props": {
+        "Subsystem": "",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_y_z",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "FbxMaxWrapper",
+      "material": "Material #178",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_details",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "FbxMaxWrapper",
+      "material": "Material #123",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Thermal_Shield_Top",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "FbxMaxWrapper",
+      "material": "Material #68",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "FbxMaxWrapper",
+      "material": "Material #57",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "FbxMaxWrapper",
+      "material": "Material #101",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_x_z1",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "FbxMaxWrapper",
+      "material": "Material #112",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_lga",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "FbxMaxWrapper",
+      "material": "Material #134",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert6",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "FbxMaxWrapper",
+      "material": "Material #167",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert2",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "FbxMaxWrapper",
+      "material": "Material #145",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert7",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "FbxMaxWrapper",
+      "material": "Material #156",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Thermal_Shield_Bottom",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "FbxMaxWrapper",
+      "material": "Material #189",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Render",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Main camera",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Sky",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Main_Body",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Lambert2",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Lambert2",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Lambert2",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Lambert2",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Lambert2",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Lambert2",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Lambert2",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Lambert2",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Lambert2",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Lambert2",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Lambert2",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Lambert2",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Lambert2",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Lambert2",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Lambert2",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Lambert2",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Lambert2",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Lambert2",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Lambert2",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Lambert2",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Lambert2",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Lambert2",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Lambert2",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Lambert2",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Lambert2",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Lambert2",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Lambert2",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Lambert2",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert8",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solar_Array",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Power",
+        "Weight": "50.0"
+      }
+    },
+    {
+      "name": "Solar_Array",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Power",
+        "Weight": "50.0"
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_y_z",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_details",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Thermal_Shield_Top",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "Thermal_Shield_Top",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Thermal_Shield_Top",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert8",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Thermal_Shield_Top",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Thermal_Shield_Top",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert6",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Thermal_Shield_Top",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_x_z1",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Thermal_Shield_Top",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_x_z1",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_details",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_details",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_details",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_details",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_details",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_details",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "Thermal_Shield_Top",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Thermal_Shield_Top",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_x_z1",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_lga",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "Thermal_Shield_Top",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solar_Array",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Power",
+        "Weight": "50.0"
+      }
+    },
+    {
+      "name": "Thermal_Shield_Top",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_lga",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert6",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert2",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert2",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert2",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert2",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert8",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert2",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert8",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert8",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert8",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert8",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert8",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert8",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert8",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert8",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert8",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert8",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert8",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert8",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert8",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert8",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert8",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert8",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert7",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert7",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert7",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert8",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert8",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert8",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert7",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_x_z1",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_x_z1",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_x_z1",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_x_z1",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_x_z1",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_x_z1",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_x_z1",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_x_z1",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_x_z1",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_x_z1",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert8",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert8",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert8",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert8",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert7",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert7",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert2",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_x_z1",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert6",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert6",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert6",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_x_z1",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert6",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_details",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_details",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_y_z",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_y_z",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_y_z",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_y_z",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_y_z",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_y_z",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_y_z",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_y_z",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_y_z",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_y_z",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_y_z",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_y_z",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_y_z",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_y_z",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert7",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_y_z",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_y_z",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "Thermal_Shield_Bottom",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_y_z",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Thermal_Shield_Bottom",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_y_z",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Thermal_Shield_Bottom",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Thermal_Shield_Top",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_x_z1",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Thermal_Shield_Bottom",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_y_z",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solar_Array",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Power",
+        "Weight": "50.0"
+      }
+    },
+    {
+      "name": "Thermal_Shield_Top",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert8",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert7",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert6",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solar_Array",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Power",
+        "Weight": "50.0"
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_x_z1",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solar_Array",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Power",
+        "Weight": "50.0"
+      }
+    },
+    {
+      "name": "Solar_Array",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Power",
+        "Weight": "50.0"
+      }
+    },
+    {
+      "name": "Solar_Array",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Power",
+        "Weight": "50.0"
+      }
+    },
+    {
+      "name": "Solar_Array",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Power",
+        "Weight": "50.0"
+      }
+    },
+    {
+      "name": "Solar_Array",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Power",
+        "Weight": "50.0"
+      }
+    },
+    {
+      "name": "Solar_Array",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Power",
+        "Weight": "50.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "Solar_Array",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Power",
+        "Weight": "50.0"
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_details",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_zy",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_details",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_details",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_details",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "HighGain_Antenna",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Communications",
+        "Weight": "10.0"
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_details",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_lga",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_lga",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_lga",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Solo_low_poly_export_lambert_lga",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Main_Body",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Initialshadinggroup",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    },
+    {
+      "name": "Initialshadinggroup",
+      "parent": "Solar_orbiter.fbx",
+      "class_": "Dummy",
+      "material": "",
+      "user_props": {
+        "Subsystem": "Unknown",
+        "Weight": ""
+      }
+    }
+  ]
+}

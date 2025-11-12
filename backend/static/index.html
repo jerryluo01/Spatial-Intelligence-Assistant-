@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Space Assistant Chat</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                background: #0b0c10;
+                color: #fff;
+                padding: 20px;
+            }
+            #chat {
+                background: #1f2833;
+                border-radius: 8px;
+                padding: 15px;
+                height: 60vh;
+                overflow-y: auto;
+                margin-bottom: 10px;
+            }
+            input,
+            button {
+                font-size: 1rem;
+                padding: 8px;
+            }
+            input {
+                width: 80%;
+                border: none;
+                border-radius: 5px;
+            }
+            button {
+                background: #45a29e;
+                color: #fff;
+                border: none;
+                border-radius: 5px;
+                cursor: pointer;
+            }
+            button:hover {
+                background: #66fcf1;
+                color: #000;
+            }
+        </style>
+    </head>
+    <body>
+        <h2>🛰️ Intelligent Space Science Assistant</h2>
+        <div id="chat"></div>
+        <input
+            id="userInput"
+            type="text"
+            placeholder="Ask something about the Solar Orbiter..."
+        />
+        <button onclick="sendQuery()">Send</button>
+
+        <script>
+            const input = document.getElementById("userInput");
+
+            input.addEventListener("keydown", function (event) {
+                if (event.key == "Enter") {
+                    event.preventDefault();
+                    sendQuery();
+                }
+            });
+
+            async function sendQuery() {
+                const query = document.getElementById("userInput").value.trim();
+                if (!query) return;
+                const chat = document.getElementById("chat");
+                chat.innerHTML += `<p><b>You:</b> ${query}</p>`;
+                const aiLine = document.createElement("p");
+                aiLine.innerHTML += `<b>AI:</b> <span></span>`;
+                const span = aiLine.querySelector("span");
+                chat.append(aiLine);
+
+                input.value = "";
+
+                const res = await fetch("http://localhost:8000/stream_query", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({ query: query }),
+                });
+
+                const reader = res.body.getReader();
+                const decoder = new TextDecoder("utf-8");
+                let done = false;
+
+                while (!done) {
+                    const { value, done: readerDone } = await reader.read();
+                    done = readerDone;
+                    if (value) {
+                        span.textContent += decoder.decode(value);
+                        chat.scrollTop = chat.scrollHeight;
+                    }
+                }
+
+                chat.innerHTML += "<hr/>";
+            }
+        </script>
+    </body>
+</html>
